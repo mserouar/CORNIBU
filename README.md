@@ -3,7 +3,9 @@
 <div align="center">
   
 ![alt text](https://github.com/mserouar/CORNIBU/blob/main/CORNIBU.png)
-  
+
+</div>
+
 # Description
 CORNIBU -contraction of Corn-Caribu (Chelle et al. 1998)- allows to simulate the 3D architectural canopy structure of maize plants and renders light interception.
 
