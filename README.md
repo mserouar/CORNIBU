@@ -122,6 +122,7 @@ CONDA_SUBDIR=osx-64 conda install openalea.plantgl openalea.deploy openalea.visu
 Also, concerning resolution : how much final mesh is realistic | Depending of number of facets.
 MacOS may have difficulties rendering in Web-based display. Increase number of given line in 'loop_all_leaves,py' function to deal with.
 
+Finally, here is a render in Blender.
 
 ```python
 # Small snippet to convert file to .obj and display it under Blender or POVRay.
